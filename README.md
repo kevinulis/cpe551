@@ -1,2 +1,2 @@
 # cpe551
-Coursework for CPE 551 "
+Coursework for CPE 551 "Engineering Programming: Python"
